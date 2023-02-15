@@ -26,7 +26,7 @@ void setup() {
 
 void loop() {
  for(int i=0; i<8; i++) {
- lc.setDigit(0,i,i,false);
+     lc.setDigit(0,i,i,false);
      delay(delaytime);
   }
 
