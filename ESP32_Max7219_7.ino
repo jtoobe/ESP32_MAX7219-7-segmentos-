@@ -1,3 +1,7 @@
+/*
+Requisitos: Librería “LedController”. Usa el protocolo SPI, los pines a usar varian según la placa Arduino a usar
+*/
+
 #include "LedController.hpp"
 
 /*
